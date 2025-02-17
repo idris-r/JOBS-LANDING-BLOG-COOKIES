@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Allow: /privacy-policy.html
+Allow: /terms-conditions.html
+Allow: /blog
+
+Disallow: /css/
+Disallow: /js/
+Disallow: /images/
+
+Sitemap: https://cvsenpai.com/sitemap.xml
